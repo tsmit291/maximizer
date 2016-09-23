@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle maximusprime",
+        "command": "maximusprime:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "maximusprime",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "maximusprime:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

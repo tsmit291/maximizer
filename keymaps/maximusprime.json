@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "maximusprime:toggle",
+    "ctrl-alt-m-p": "maximusprime:expand"
+  }
+}
